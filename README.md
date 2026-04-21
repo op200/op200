@@ -50,5 +50,5 @@
   当时 bingo 等填格子游戏很流行，就随手写了个，能自动填格子
 
 ### 教程
-* [Python 2026 速通教程](https://github.com/op200/Python-Speedrun-2026)
-* [字幕制作教程](https://github.com/CheeseAni/Subtitle-Production-Tutorial)
+* [Python 2026 速通教程](https://github.com/op200/Python-Speedrun-2026) ⭐
+* [字幕制作教程](https://github.com/CheeseAni/Subtitle-Production-Tutorial) ⭐⭐⭐
