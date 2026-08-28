@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=op200&locale=cn&line_height=33&show_icons=true&rank_icon=percentile&theme=transparent"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=op200"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=op200"/>
 </div>
 
 ## 项目简介
@@ -19,10 +20,12 @@
 ### 字幕工具
 * [Tag Replace](https://github.com/op200/Tag-Replace_for_Aegisub) ⭐⭐⭐  
   可以代替 karaoke template 的 Aegisub 插件，所有操作无副作用，用法偏 Lua 底层，内置大量工具
-* [SSOCR](https://github.com/op200/Simple_Subtitle_OCR) ⭐  
+* [SSOCR](https://github.com/op200/Simple_Subtitle_OCR)  
   简陋的 OCR 硬字幕的 GUI
 * [synchsub](https://github.com/op200/synchrsub)  
   未开发完的 Web ASS 编辑器，浏览器打开在线使用链接即可使用
+* [Aegisub-Web](https://github.com/op200/aegisub-web)  
+  完全由 AI 编写的未开发完的 Web ASS 编辑器，浏览器打开在线使用链接即可使用
 
 ### BT 工具
 * [oidbt_torrent](https://github.com/OIDBT/oidbt_torrent)  
@@ -33,6 +36,7 @@
   基于 Libtorrent 的 CLI 制种工具，用于替代 mktorrent 等工具
 * [oidbt-bangumi-app](https://github.com/OIDBT/oidbt-bangumi-app) ⭐⭐  
   一个 Bangumi 插件，基于 IPFS 去中心化磁链获取，从 Bangumi 之间打开磁链
+  实验性质较重，没什么实用价值
 
 ### 其他小工具
 * [my_Gadgets](https://github.com/op200/my_Gadgets)  
